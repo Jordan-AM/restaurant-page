@@ -23,5 +23,5 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 // Load by default on page Load
 loadHeader();
-loadMenu();
+loadHome();
 loadFooter();
